@@ -7,4 +7,4 @@ Weight = 68
 Height = 1.7
 
 //BMI = 体重÷（身長×身長)
-console.log(Weight/(height*height));
+console.log(Weight/(Height*Height));
